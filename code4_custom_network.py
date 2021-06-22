@@ -10,7 +10,7 @@ import csv
 
 '''
 IMPORTANT:
-    1) This program imports data from the stata_data.xlsx file, so line #23 should be change according to the path of the file on your computer
+    1) This program imports data from the stata_data.xlsx file, so line #25 should be change according to the path of the file on your computer
     2) The last section allows the user to export weights list in .csv but this is optional; here again, path should be modified
     3)This program needs to be run before the custom fast SIR algorithm
 '''
