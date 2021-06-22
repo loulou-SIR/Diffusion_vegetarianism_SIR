@@ -88,7 +88,6 @@ def frequency_class(g,attribute1,value1,attribute2,value2):
     return counter
 
 
-print("time necessary for adding attributes :"+str(time_elapsed)+" s")
 
 def state(g): #returns repartition by subcategory
 
