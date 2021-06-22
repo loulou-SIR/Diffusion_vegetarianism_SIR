@@ -9,5 +9,5 @@ Code is written in Python and uses the several imported modules :
  
 
 IMPORTANT : 
-  1) Code 4 must be run before Code 7 is run, because Code 7 uses the graph generator function defined in Code 4
+  1) Code 4 must be run before Code 8 is run, because Code 8 uses the graph generator function defined in Code 4
   2) Code 7 is very long to run 
