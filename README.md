@@ -1,4 +1,4 @@
-# SIR_model
+# Diffusion_vegetarianism_SIR
 
 This is the source code for the master's thesis "Modelización epidemiológica de la propagación de comportamientos ambientales en una población". 
 
