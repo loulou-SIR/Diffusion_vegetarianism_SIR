@@ -8,4 +8,6 @@ Code is written in Python and uses the several imported modules :
   - Classic Python libraries: matplotlib, scipy, random, time. These are already installed normally. 
  
 
-
+IMPORTANT : 
+  1) Code 4 must be run before Code 7 is run, because Code 7 uses the graph generator function defined in Code 4
+  2) Code 7 is very long to run 
