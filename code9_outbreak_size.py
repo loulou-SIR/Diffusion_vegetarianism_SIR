@@ -5,8 +5,7 @@ import networkx as nx
 import random
 import EoN
 '''Objective : compare outbreak size depending on R0 for analytical and stochastic solution
-Create a loop where R0 grows from 0,2 to 2,7 and calculate the outbreak size i.e Delta(S)/S0 (the number of infecteds divided by intial susceptible population)
-Do one loop with R0 parameter growing and inside, one analytical simulation and one loop one 50 stochastic simulation
+WARNING: code is very long to run
 '''
 
 ##Outbreak size for deterministic SIR
