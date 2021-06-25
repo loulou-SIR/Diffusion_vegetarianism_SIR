@@ -8,7 +8,7 @@ import numpy as np
 import csv
 
 
-'''This program
+'''
 IMPORTANT:
     1) This program imports data from the stata_data.xlsx file, so line #20 should be changed according to the path of the file on your computer
     2) The last section allows the user to export weights list in .csv but this is optional; here again, path should be modified
